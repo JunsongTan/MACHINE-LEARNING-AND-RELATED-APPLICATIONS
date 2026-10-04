@@ -1,0 +1,5 @@
+Method,Class 0,Class 1,Total Training Records
+Original Training Data,50577,19207,69784
+SMOTE,50577,50577,101154
+Random Over-Sampling,50577,50577,101154
+Random Under-Sampling,19207,19207,38414
